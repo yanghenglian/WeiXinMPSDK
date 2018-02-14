@@ -347,6 +347,7 @@
   <ItemGroup>
     <Folder Include="App_Data\Document\Files\" />
     <Folder Include="App_Data\OpenTickets\" />
+    <Folder Include="Controllers\STO\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config">
@@ -434,7 +435,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>61637</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>https://localhost:65395/</IISUrl>
+          <IISUrl>http://localhost:65395/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
